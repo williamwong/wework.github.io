@@ -15,7 +15,7 @@ Will wasn't that grumpy. I mean, he's a *little* grumpy. But he gave me a 10,000
 
 I discussed what to print with my ping-pong hitting partner Alex. He builds our iOS apps. Should I print an Eiffel Tower? Should I print a phone case? Should I try modeling something myself, and if so, what? How many tiny TIE Interceptors could I print with three half-used large spools, and would that be enough to fend off tiny impending rebel assaults?
 
-We decided to try printing a ping-pong paddle. We downloaded ScurtWad's [model](http://www.thingiverse.com/thing:175326), exported the print file from MakerWare at the default settings, and pressed print. Our eyes were filled with wonder as the bot sprang to life. 
+We decided to try printing a ping-pong paddle. We downloaded ScurtWad's [model](http://www.thingiverse.com/thing:175326), exported the print file from MakerWare at the default settings, and pressed print. Our eyes filled with wonder as the bot sprang to life. 
 
 Our first print was an epic fail. We refer to it as the ramen paddle.
 
