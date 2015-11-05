@@ -33,7 +33,9 @@ $ jekyll -v
 Then, start the Jekyll Server. I always like to give the `--watch` option so it updates the generated HTML when I make changes.
 
 ```
-$ jekyll serve --watch --drafts
+$ gem install bundler
+$ bundle
+$ bundle exec jekyll serve --watch --drafts
 ```
 
 Now you can navigate to `localhost:4000` in your browser to see the site.
